@@ -1,1 +1,1 @@
-# LinearRegression
+Car Price Prediction using Linear Regression – Built a predictive model to estimate car prices based on features like mileage, engine size, horsepower, and manufacturing year. Performed data preprocessing, exploratory data analysis, and feature selection. Achieved high R² score by training and evaluating the model using scikit-learn, enabling accurate price predictions.
